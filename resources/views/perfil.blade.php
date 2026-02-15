@@ -22,7 +22,7 @@
     <main class="contenedor">
         <section class="seccion-hero">
             <div class="avatar">
-                <img src="https://via.placeholder.com/200" alt="Foto de perfil">
+                <img src="\img\foto-johan.jpeg" alt="Foto de perfil">
             </div>
             <h1 class="titulo-principal">Johan Andrés Latorre Dulcey</h1>
             <p class="subtitulo">Estudiante de Ingeniería de Sistemas</p>
