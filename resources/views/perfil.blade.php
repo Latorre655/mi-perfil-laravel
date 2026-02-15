@@ -12,9 +12,9 @@
             <h1 class="logo">Mi Portafolio</h1>
             <ul class="menu">
                 <li><a href="/perfil" class="active">Perfil</a></li>
-                <li><a href="/intereses">Intereses</a></li>
-                <li><a href="/habilidades">Habilidades</a></li>
-                <li><a href="/metas">Metas</a></li>
+                <li><a href="intereses">Intereses</a></li>
+                <li><a href="habilidades">Habilidades</a></li>
+                <li><a href="metas">Metas</a></li>
             </ul>
         </div>
     </nav>
