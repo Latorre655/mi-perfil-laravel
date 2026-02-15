@@ -11,10 +11,10 @@
         <div class="nav-container">
             <h1 class="logo">Mi Portafolio</h1>
             <ul class="menu">
-                <li><a href="/perfil">Perfil</a></li>
-                <li><a href="/intereses">Intereses</a></li>
-                <li><a href="/habilidades">Habilidades</a></li>
-                <li><a href="/metas" class="active">Metas</a></li>
+                <li><a href="{{ url('/perfil') }}" class="active">Perfil</a></li>
+                <li><a href="{{ url('/perfil/intereses') }}">Intereses</a></li>
+                <li><a href="{{ url('/perfil/habilidades') }}">Habilidades</a></li>
+                <li><a href="{{ url('/perfil/metas') }}">Metas</a></li>
             </ul>
         </div>
     </nav>
